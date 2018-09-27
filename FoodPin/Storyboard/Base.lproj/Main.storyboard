@@ -4,6 +4,7 @@
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
+        <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.9"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -97,7 +98,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="eqA-0b-gq1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1097" y="134"/>
+            <point key="canvasLocation" x="682" y="125"/>
         </scene>
         <!--Restaurant Detail View Controller-->
         <scene sceneID="VcJ-yQ-8Ow">
@@ -272,7 +273,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="WDv-x7-WbH" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="449" y="134"/>
+            <point key="canvasLocation" x="-15" y="126"/>
         </scene>
     </scenes>
     <resources>
