@@ -120,6 +120,8 @@
 				F40AF4A11F6278B400943F02 /* RestaurantDetailHeaderView.swift */,
 				F4E705ED1F63930B00635504 /* RestaurantDetailIconTextCell.swift */,
 				F4E705EF1F64413C00635504 /* RestaurantDetailTextCell.swift */,
+				D146D842215E7E53008A8E8C /* RestaurantDetailSeparatorCell.swift */,
+				D146D844215E7F4C008A8E8C /* RestaurantDetailMapCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -128,8 +130,6 @@
 			isa = PBXGroup;
 			children = (
 				F4BD89CA1F4E961C00588D6D /* Main.storyboard */,
-				D146D842215E7E53008A8E8C /* RestaurantDetailSeparatorCell.swift */,
-				D146D844215E7F4C008A8E8C /* RestaurantDetailMapCell.swift */,
 				F4BD89CF1F4E961C00588D6D /* LaunchScreen.storyboard */,
 			);
 			path = Storyboard;
